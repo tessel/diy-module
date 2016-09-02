@@ -1,4 +1,5 @@
 # Creating Your Own Tessel Module
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
 
 Want to get started with the Tessel DIY module? These guides should give you a good place to start:
 
